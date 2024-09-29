@@ -2,3 +2,4 @@ node_modules/
 src/.env
 src/.env.*
 src/.env.sample
+src/constants.js
